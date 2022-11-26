@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsfarooqkhan" alt="vsfarooqkhan" /></a> </p>
 
-- 🔭 I’m currently working at **Xerago**
+- 🔭 I’m currently working at **Anthology Inc**
 
 - 🌱 I’m currently learning **React, Scala**
 
