@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working at **Anthology Inc**
 
-- 🌱 I’m currently learning **React, Scala**
+- 🌱 I’m currently focussing **React, Scala**
+- 🌱 I’m currently learning **.NET, Next js**
 
 - 👨‍💻 All of my projects are available at [https://vsfarooqkhan.github.io](https://vsfarooqkhan.github.io)
 
