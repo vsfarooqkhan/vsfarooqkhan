@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Farooq Khan</h1>
 
 <h3 align="center">
@@ -8,10 +9,36 @@ Senior Software Engineer | Frontend Architect | React & Platform Engineering Spe
 Building scalable enterprise applications with React, TypeScript, Scala & Cloud Technologies 🚀
 </p>
 
+---
+
 <p align="center">
-  <a href="https://github.com/vsfarooqkhan">
-    <img src="https://komarev.com/ghpvc/?username=vsfarooqkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://linkedin.com/in/vsfarooqkhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  
+  <a href="https://twitter.com/vsfarooqkhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+
+  <a href="https://dev.to/vsfarooqkhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/8240120/farooq" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/stackoverflow/F58025" />
+  </a>
+
+  <a href="https://medium.com/@vsfarooqkhan" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/medium/FFFFFF" />
+  </a>
+
+  <a href="mailto:vsfarooqkhan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vsfarooqkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -68,54 +95,16 @@ Building scalable enterprise applications with React, TypeScript, Scala & Cloud 
 - 🌐 Portfolio: [vsfarooqkhan.github.io](https://vsfarooqkhan.github.io)
 - ✍️ Articles: [dev.to/vsfarooqkhan](https://dev.to/vsfarooqkhan)
 - 💼 LinkedIn: [linkedin.com/in/vsfarooqkhan](https://linkedin.com/in/vsfarooqkhan)
-- 📫 Email: **vsfarooqkhan@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vsfarooqkhan&show_icons=true&theme=tokyonight" 
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=vsfarooqkhan&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsfarooqkhan&layout=compact&theme=tokyonight" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vsfarooqkhan&theme=tokyonight" 
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://dev.to/vsfarooqkhan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-
-  <a href="https://twitter.com/vsfarooqkhan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
-  <a href="https://linkedin.com/in/vsfarooqkhan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/8240120/farooq" target="_blank">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/stackoverflow/F58025" />
-  </a>
-
-  <a href="https://medium.com/@vsfarooqkhan" target="_blank">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/medium/FFFFFF" />
-  </a>
 </p>
 
 ---
@@ -128,3 +117,14 @@ Building scalable enterprise applications with React, TypeScript, Scala & Cloud 
 > Never stop learning.
 
 ---
+
+## 🤝 Open To
+
+- Frontend Architecture Discussions
+- React Ecosystem Collaborations
+- Open Source Contributions
+- AI-powered Developer Tooling
+- Enterprise Engineering Challenges
+
+Feel free to connect 👋
+```
