@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farooq Khan</h1>
 
 <h3 align="center">
-Senior Software Engineer | Frontend Architect | React & Platform Engineering Specialist
+Senior Software Engineer | Systems Integration & Full-Stack
 </h3>
 
 <p align="center">
-Building scalable enterprise applications with React, TypeScript, Scala & Cloud Technologies 🚀
+Building scalable integration platforms & full-stack applications with Python, Node.js, React & Cloud 🚀
 </p>
 
 ---
@@ -14,23 +14,18 @@ Building scalable enterprise applications with React, TypeScript, Scala & Cloud 
   <a href="https://linkedin.com/in/vsfarooqkhan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-
   <a href="https://twitter.com/vsfarooqkhan" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-
   <a href="https://dev.to/vsfarooqkhan" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" height="40" />
   </a>
-
   <a href="https://stackoverflow.com/users/8240120/farooq" target="_blank">
     <img width="40" height="40" src="https://cdn.simpleicons.org/stackoverflow/F58025" />
   </a>
-
   <a href="https://medium.com/@vsfarooqkhan" target="_blank">
     <img width="40" height="40" src="https://cdn.simpleicons.org/medium/FFFFFF" />
   </a>
-
   <a href="mailto:vsfarooqkhan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
@@ -44,52 +39,53 @@ Building scalable enterprise applications with React, TypeScript, Scala & Cloud 
 
 ## 👨‍💻 About Me
 
-* 💼 Senior Software Engineer with **7+ years** of experience
-* ⚛️ Specialized in **React, TypeScript, Frontend Architecture & Microfrontends**
-* ☁️ Experienced in **Azure, AWS, GraphQL, REST APIs & Enterprise Integrations**
-* ♿ Passionate about **Accessibility (WCAG)** and scalable UI systems
-* 🤖 Exploring **AI-assisted developer workflows**
-* 🌱 Currently learning **Next.js, .NET & Advanced System Design**
+* 💼 Senior Software Engineer with **8+ years** of experience
+* 🔗 Specialized in **Systems Integration & Automation** — SIS/LMS connectors, third-party APIs, payment gateways
+* 🐍 Backend depth in **Python (FastAPI, SQLAlchemy, Pydantic)** & **Node.js**, with full-stack range in **React & TypeScript**
+* ⚙️ Focused on **reliable integrations** — retries, idempotency, rate limiting, audit logging & observability
+* ☁️ Experienced in **Azure, AWS, GraphQL, REST APIs, webhooks & message queues**
+* 🤖 Passionate about **AI-assisted developer workflows** (Azure OpenAI, GitHub Copilot)
+* 🌱 Currently building a **native OneRoster microservice** in Python
 * 📍 Based in Chennai, India
 
 ---
 
 ## 🚀 Tech Stack
 
+### Backend & Integration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,dotnet,php,laravel,graphql" />
+</p>
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,nextjs,html,css,bootstrap,materialui,angular" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,dotnet" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,nextjs,html,css,materialui,angular" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,jenkins,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,jenkins,git,linux,postman" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </p>
 
 ---
 
 ## 💼 Current Focus
 
-* Enterprise Frontend Platforms
-* React Microfrontend Architectures
-* Integration Hub Systems
+* Enterprise Integration Platforms (SIS ↔ LMS)
+* Native OneRoster Connector (Python / FastAPI)
+* Reliable, Fault-Tolerant API Design
+* Event-Driven Automation & Data Pipelines
 * AI-powered Developer Tools
-* Performance Optimization
-* Accessibility-first Applications
+* Observability & Audit Logging at Scale
 
 ---
 
@@ -114,19 +110,19 @@ Building scalable enterprise applications with React, TypeScript, Scala & Cloud 
 
 ## 💡 Engineering Philosophy
 
-> Build scalable systems.
+> Build reliable, scalable systems.
+> Handle failure gracefully.
 > Write maintainable code.
-> Improve developer experience.
 > Never stop learning.
 
 ---
 
 ## 🤝 Open To
 
-* Frontend Architecture Discussions
+* Systems Integration & Backend Challenges
+* Full-Stack Engineering Roles
 * React Ecosystem Collaborations
-* Open Source Contributions
 * AI-powered Developer Tooling
-* Enterprise Engineering Challenges
+* Open Source Contributions
 
 Feel free to connect 👋
